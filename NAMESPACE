@@ -1,0 +1,6 @@
+export(qal)
+export(simulate_qal)
+S3method(print,qal)
+S3method(coef,qal)
+S3method(predict,qal)
+importFrom(stats,coef,predict)

@@ -1,0 +1,8 @@
+bibentry(bibtype = "Article",
+ title = "Quantile adaptive lasso: variable selection for quantile treatment effect estimation",
+ author = c(person("Yahang", "Liu"), person("Kecheng", "Wei"),
+   person("Chen", "Huang"), person("Yongfu", "Yu"), person("Guoyou", "Qin")),
+ journal = "Journal of Statistical Computation and Simulation",
+ year = "2025", volume = "95", number = "2", pages = "239--257",
+ doi = "10.1080/00949655.2024.2424348",
+ note = "Published online 8 November 2024")

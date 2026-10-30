@@ -1,0 +1,15 @@
+Package: QAL
+Type: Package
+Title: Quantile Adaptive Lasso for Quantile Treatment Effects
+Version: 0.1.0
+Authors@R: person("Yahang", "Liu", role = c("aut", "cre"),
+    email = "yhliu22@m.fudan.edu.cn")
+Description: Selects covariates in binary propensity score models using
+    quantile-regression adaptive penalty weights and weighted absolute mean
+    difference tuning. Estimates marginal quantile treatment effects with
+    inverse-probability-weighted quantile regression following Liu et al.
+    (2025) <doi:10.1080/00949655.2024.2424348>.
+License: GPL-3
+Encoding: UTF-8
+Depends: R (>= 4.1.0)
+Imports: lqa, quantreg, stats
